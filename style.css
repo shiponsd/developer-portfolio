@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -25,6 +26,6 @@ section{
     color: white;
     font-size: 400;
     border-radius: 5px;
-    
+
 
 }

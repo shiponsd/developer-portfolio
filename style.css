@@ -5,6 +5,9 @@ h1{
     font-size: 50px;
 
 }
+h2{
+    font-size: 40px;
+}
 .orange-color{
     color: orange;
 }
@@ -15,6 +18,7 @@ h1{
 .half-width{
     width: 50%;
     padding-left: 5%;
+    box-shadow:  10px,10px greenyellow;
 }
 .half-width img{
     width: 80%;
@@ -26,4 +30,12 @@ h1{
     color: white;
     border-radius: 5px;
 
+}
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px grey;
 }
